@@ -1,0 +1,11 @@
+{
+  "description": "两颗心微信小程序",
+  "miniprogramRoot": "./",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "two-hearts-miniprogram",
+  "setting": {
+    "es6": true,
+    "minified": true
+  }
+}

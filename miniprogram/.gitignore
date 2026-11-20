@@ -1,0 +1,8 @@
+# 微信开发者工具的个人设置
+project.private.config.json
+
+# 本地依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

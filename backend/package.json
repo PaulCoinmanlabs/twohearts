@@ -1,0 +1,12 @@
+{
+  "name": "two-hearts-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "两颗心后台服务基础项目",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}

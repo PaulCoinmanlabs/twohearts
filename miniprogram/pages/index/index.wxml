@@ -1,0 +1,14 @@
+<view class="page">
+  <view class="brand"><text class="brand-mark">♥ ♥</text><text>两颗心</text></view>
+  <view class="hero">
+    <text class="eyebrow">为彼此，留一份陪伴</text>
+    <view class="title"><view>两个人，</view><view>一份专属连接。</view></view>
+    <view class="description">无论相隔多远，让心意在彼此之间慢慢靠近。</view>
+    <view class="heart-art" aria-label="两颗相伴的心"><text>♥</text><text>♥</text></view>
+  </view>
+  <view class="card">
+    <view class="card-title">从这里，开始我们的故事</view>
+    <view class="card-copy">未来可连接各自的玩偶，由双方共同确认专属连接，传递拥抱和陪伴。</view>
+    <view class="status">项目搭建中 · 连接功能尚未开放</view>
+  </view>
+</view>
